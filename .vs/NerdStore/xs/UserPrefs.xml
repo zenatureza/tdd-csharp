@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{D2F4D700-7F04-459D-BD86-D1E9B8FFF177}|Default">
+  <MonoDevelop.Ide.ItemProperties.tests.NerdStore.Vendas.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/NerdStore.Vendas.Domain/Pedido.cs">
+    <Files>
+      <File FileName="tests/NerdStore.Vendas.Domain.Tests/PedidoTests.cs" Line="67" Column="27" />
+      <File FileName="src/NerdStore.Vendas.Domain/Pedido.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NerdStore" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="NerdStore.Vendas.Domain" expanded="True">
+                <Node name="Pedido.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="tests" expanded="True">
+              <Node name="NerdStore.Vendas.Application.Tests" expanded="True" />
+              <Node name="NerdStore.Vendas.Domain.Tests" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NerdStore" expanded="True">
+            <Node name="tests" expanded="True">
+              <Node name="NerdStore.Vendas.Domain.Tests" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tests.NerdStore.Vendas.Application.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>tests/NerdStore.Vendas.Domain.Tests/NerdStore.Vendas.Application.Tests/NerdStore.Vendas.Application.Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

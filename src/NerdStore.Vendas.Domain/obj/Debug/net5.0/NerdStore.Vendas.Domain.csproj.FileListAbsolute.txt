@@ -1,0 +1,12 @@
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/bin/Debug/net5.0/NerdStore.Vendas.Domain.deps.json
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/bin/Debug/net5.0/NerdStore.Vendas.Domain.dll
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/bin/Debug/net5.0/ref/NerdStore.Vendas.Domain.dll
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/bin/Debug/net5.0/NerdStore.Vendas.Domain.pdb
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.csprojAssemblyReference.cache
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.AssemblyInfo.cs
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.dll
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/ref/NerdStore.Vendas.Domain.dll
+/Users/arthurtolfopinheiro/Projects/NerdStore/src/NerdStore.Vendas.Domain/obj/Debug/net5.0/NerdStore.Vendas.Domain.pdb
